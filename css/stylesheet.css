@@ -1,0 +1,21 @@
+.header{
+  background-color: tomato;
+  text-align: center;
+
+}
+h1{
+  font-size:25px;
+  padding: 4%;
+}
+.col-md-3{
+  background-color: pink;
+  color: white;
+  text-align: center;
+}
+#ping{
+  text-decoration: underline;
+}
+.img{
+  float: center;
+  padding-bottom: 10%
+}
