@@ -1,4 +1,4 @@
-#ANITA-RESTAURANT
+#PING-PONG PROJECT
 ###### BY **abdullahi mohamed**
 ##description
  the project is all about ping pong project.
