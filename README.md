@@ -22,7 +22,7 @@ examples
   the game does not need any downloads its easier to use and manage
   you just need to browse it through the Internet using the below link:
   and you could play the whole time.
-       
+
 ##known bugs
  the website is all made only in html
  css and some bit of javascript
@@ -33,13 +33,13 @@ examples
 ##help and contact information
 for more information and help from me
 you can contact me
-email:abdullahimoh25@gmail.come,
+email:abdullahimoh25@gmail.com,
 contact:@0799745481,
 social media facebook:@abdullahi mohamed,
-             instagram:busyapp.
+             instagram busyapp.
 
              you can follow and visit using the following link
-              @https://abdullahi05.github.io/Anita-restuarant-website/
+               @https://abdullahi05.github.io/moringa-pong-project/
 
 ## licence
- *copyright abdullahi mohamed 2018 **moringa moringa school**
+ *copyright abdullahi mohamed 2018 **moringa school**
