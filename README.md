@@ -21,7 +21,8 @@ examples
 ##access and downloads;
   the game does not need any downloads its easier to use and manage
   you just need to browse it through the Internet using the below link:
-  and you could play the whole time.
+  and you could play the whole time.all help can be accessed through github
+  and online research through your browser.
 
 ##known bugs
  the website is all made only in html
