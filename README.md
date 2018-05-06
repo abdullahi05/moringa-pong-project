@@ -17,7 +17,12 @@ examples
 examples
   input:15
   output:1,,ping,,pong,ping,,,,pong,,,ping,,,14,pingpong(15)becouse
-  a number thats divisible by both 3 and 5 are named ping pong.   
+  a number thats divisible by both 3 and 5 are named ping pong.
+##access and downloads;
+  the game does not need any downloads its easier to use and manage
+  you just need to browse it through the Internet using the below link:
+  and you could play the whole time.
+       
 ##known bugs
  the website is all made only in html
  css and some bit of javascript
